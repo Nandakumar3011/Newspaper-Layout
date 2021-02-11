@@ -1,0 +1,359 @@
+.container{
+    width: 1135px;
+    margin: 0 auto;
+}
+
+.title h1 {
+        font: 70px "Playfair Display SC";
+        text-align: center;
+        font-weight: 900;
+        margin: 40px 0px 0px 0px;
+        color: #1c1f33;
+}
+
+.aside {
+    border-top: double ;
+    padding: 10px 0px 10px 0px;
+    border-bottom: double ;
+    text-transform: uppercase;
+    font: 20px "Playfair Display SC" ;
+    text-decoration: none;
+}
+
+.content{
+    margin-top: 20px;
+}
+
+.heading h2{
+    font-style: italic;
+    font-size: 44px;  
+    font-family: "Playfair Display", serif, "Manrope", sans-serif;
+    line-height: 2.5rem; 
+    font-weight: 700;
+    color: #1c1f33;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+}
+
+.paragraph{
+    padding-top: 20px;
+}
+
+.paragraph p{
+    font-size: 17px;
+    font-family: "Playfair Display", serif;
+    line-height: 1.3;
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+}
+
+figure{
+    /* margin: 15px 15px 15px 15px; */
+    /* padding: 15px 15px 15px 15px; */
+    margin: 0;
+    padding: 0;
+}
+
+figure img{
+    border-style: solid;
+    border-width: 1px;
+    width: 90%;
+    height: 370px;
+    margin: 20px;
+}
+
+figcaption{
+    font-style: italic;
+    font-size: 17px;
+    font-family: "Playfair Display", serif;
+    margin-left: 15px;
+    padding: 0;
+}
+
+.v1{
+    margin-top: 20px;
+    border-left: 1px solid black;
+    height: 1475px;
+}
+
+.side-bar{
+    margin-left: 20px;
+}
+
+.side-bar h3{
+    font-family: "Playfair Display", serif, "Manrope", sans-serif;
+    font-style: italic;
+    font-size: 25px;
+    margin: 0;
+    padding: 0;
+    color: #1c1f33;
+
+
+}
+
+.side-bar img{
+    padding: 0;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.side-bar h5{
+    margin: 0;
+    padding: 10px;
+    background-color: #999;
+    position: relative;
+    bottom: 5px;
+    color: #eee;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+
+.side-bar1{
+    background-color: #666;
+    margin: 0;
+    padding: 10px;
+    position: relative;
+    bottom: 5px;
+}
+
+.side-bar1 h4{
+    font-size: 20px;
+    font-family: "Playfair Display", serif, "Manrope", sans-serif;
+    color: #eee;
+    margin: 0;
+    padding: 0;
+}
+
+.side-bar1 p{
+    font-family: "Playfair Display", serif;
+    color: #eee;
+    font-size: 16px;
+    margin: 0;
+    padding: 10px 0px 0px 0px;
+
+}
+
+.side-bar2 {
+    margin-left: 20px;
+}
+
+.side-bar3 {
+    margin-left: 20px;
+}
+.side-bar4 {
+    margin-left: 20px;
+}
+
+.side-bar4 iframe{
+    padding: 0;
+    margin-top: 30px;
+    width: 100%;
+    border-width: 5px;
+    border-style: double;
+    border-color: #1c1f33;
+
+}
+
+.side-bar2 h5{
+    font-family: "Playfair Display", serif;
+    color: #1c1f33;
+    font-size: 17px;
+    text-align: center;
+    margin: 0;
+    padding: 30px 0px 0px 0px;
+   
+}
+
+.side-bar3 h5{
+    font-family: "Playfair Display", serif;
+    color: #1c1f33;
+    font-size: 17px;
+    text-align: center;
+    margin: 0;
+    padding: 30px 0px 0px 0px;
+   
+}
+.side-bar2 p{
+    font-family: "Playfair Display", serif;
+    font-size: 17px;
+    text-align: justify;
+    margin: 0;
+    padding: 20px 0px 0px 0px;
+}
+.side-bar3 p{
+    font-family: "Playfair Display", serif;
+    font-size: 17px;
+    text-align: justify;
+    margin: 0;
+    padding: 20px 0px 0px 0px;
+}
+
+.v2{
+    margin-top: 20px;
+    border-bottom: 1px solid black;
+    width: 100%;
+}
+
+.content-1{
+    margin-top: 20px;
+}
+
+.cont-1 img{
+    border-style: solid;
+    border-width: 1px;
+    width: 100%;
+}
+
+.img-2 img{
+    transform: rotate(
+        90deg
+        );
+    border-style: double;
+    border-width: 5px;
+    border-color: #1c1f33 ;
+    margin-left: 5px;
+    margin-top: 70px;
+}
+
+.img-2 span{
+    text-align: center;
+    color:#1c1f33;
+    font-size: 25px;
+    font-family: "Playfair Display", serif, "Manrope", sans-serif;
+    margin:0;
+    padding: 0;
+
+}
+
+.pasta{
+    width: 30%;
+    border-top: 1px solid black;
+    margin-right: 30px;
+    border-bottom: 1px solid black;
+    height: 250px;
+
+}
+
+.pasta h4 {
+    margin: 0;
+    padding: 10px 10px 0 0;
+    font-family: "Playfair Display", serif, "Manrope", sans-serif;
+    font-size: 27px;
+    color: #1c1f33;
+
+
+}
+
+.pasta p{
+    margin: 0;
+    padding: 10px 10px 0 0;
+    font-size: 17px;
+    font-family: "Playfair Display", serif;
+    line-height: 1.3;
+    text-align: justify;
+}
+
+.heading-1 h4{
+    font-family: "Playfair Display", serif, "Manrope", sans-serif;
+    font-size: 27px;
+    color: #1c1f33;
+    margin: 0;
+    padding: 10px 0 0 0;
+}
+
+
+
+.heading-1 p{
+    margin: 0;
+    padding: 10px 0 0 0;
+    font-size: 17px;
+    font-family: "Playfair Display", serif;
+    line-height: 1.3;
+    text-align: justify;
+}
+
+
+
+.heading-2 h4{
+    font-family: "Playfair Display", serif, "Manrope", sans-serif;
+    font-size: 27px;
+    color: #1c1f33;
+    margin: 0 0 0 30px;
+    padding: 10px 30px 0 240px;
+}
+
+.heading-2 p{
+    margin: 0 0 0 270px;
+    padding: 10px 30px 0 0px;
+    font-size: 17px;
+    font-family: "Playfair Display", serif;
+    line-height: 1.3;
+    text-align: justify;
+}
+
+.row-1 h4{
+    font-family: "Playfair Display", serif, "Manrope", sans-serif;
+    font-size: 27px;
+    color: #1c1f33;
+    margin: 0 ;
+    padding: 10px 0 0 0;
+}
+
+.row-1 p{
+    margin: 0 ;
+    padding: 10px 0 0 0;
+    font-size: 17px;
+    font-family: "Playfair Display", serif;
+    line-height: 1.3;
+    text-align: justify;
+}
+
+.row-2 img{
+    width: 80%;
+    margin-top: 20px;
+    border-width: 1px;
+    border-style: solid;
+    height: 350px;
+    margin-left: 40px;
+}
+.row-3{
+    margin-right: 30px;
+
+}
+.row-3 img{
+    width: 100%;
+    margin-top: 20px;
+    border-width: 1px;
+    border-style: solid;
+    height: 350px;
+
+}
+
+.cont3{
+    border-top: 1px solid black;
+    margin-right: 30px;
+}
+.cont4{
+    padding-top: 30px;
+    border-top: 1px solid black;
+}
+.social img{
+    width: 40%;
+    margin: 0;
+    padding: 0;
+}
+.social p{
+    font-size: 17px;
+    font-family: "Playfair Display", serif;
+    line-height: 1.3;
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+}
+
+.social p a{
+    text-decoration: none;
+    color: black;
+}
